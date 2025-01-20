@@ -3,7 +3,7 @@
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/nine_kiwis_chrome_extension.git
+    git clone https://github.com/amitkolloldey/nine_kiwis_chrome_extension.git
     ```
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable "Developer mode" by clicking the toggle switch in the top right corner.
